@@ -1,2 +1,2 @@
-# HUST_JAVA_Experiment
-基于倒排索引的搜索引擎
+# HUST_JAVA
+2019级的实验和作业
